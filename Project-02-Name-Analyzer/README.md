@@ -27,3 +27,19 @@ This is a simple **Python Name Analyzer** that takes your name as input and perf
 3️⃣ Open your terminal, navigate to the project folder, and run:  
 ```bash
 python name_analyzer.py
+```
+
+## 💡 Example Output
+```bash
+Enter your Age: 16
+You are Minor.
+
+Enter your Age: 30
+You are Adult.
+
+Enter your Age: 65
+You are Senior Citizen.
+
+Enter your Age: -5
+Invalid Age....!
+```
