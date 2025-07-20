@@ -3,14 +3,20 @@
 This is a basic Python **Command Line Calculator** that performs simple arithmetic operations: Addition, Subtraction, Multiplication, and Division.
 
 ## 📌 Features
-
 - Take two numbers as input
 - Choose an operation: Add, Subtract, Multiply, or Divide
 - Handles division by zero with an error message
 - Clear and easy to use
 
-## 🚀 How to Run
 
+## ⚙️ What’s Used
+- **Input/Output:** `input()` and `print()`  
+- **Type Conversion:** `float()` and `int()`  
+- **Conditional Statements:** `if`, `elif`, `else`  
+- **Basic Arithmetic Operators:** `+`, `-`, `*`, `/`
+
+  
+## 🚀 How to Run
 1️⃣ Make sure you have Python installed.  
 2️⃣ Save the script as `calculator.py`.  
 3️⃣ Open your terminal, navigate to the project folder, and run:  
@@ -18,7 +24,8 @@ This is a basic Python **Command Line Calculator** that performs simple arithmet
 python calculator.py
 ```
 
-## Example output
+
+## 🧮 Example output
 ```bash
 1. Addition
 2. Subtraction
