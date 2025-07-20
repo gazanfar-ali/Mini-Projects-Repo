@@ -31,15 +31,10 @@ python name_analyzer.py
 
 ## 💡 Example Output
 ```bash
-Enter your Age: 16
-You are Minor.
-
-Enter your Age: 30
-You are Adult.
-
-Enter your Age: 65
-You are Senior Citizen.
-
-Enter your Age: -5
-Invalid Age....!
+Enter your Name: Olivia
+Length of your Name is: 6
+Your name starts with Vowel.
+Name is lower case: olivia
+1st letter of your name: O
+Your name reversed is: aivilO
 ```
