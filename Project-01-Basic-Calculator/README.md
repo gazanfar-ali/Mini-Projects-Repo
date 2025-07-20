@@ -16,3 +16,19 @@ This is a basic Python **Command Line Calculator** that performs simple arithmet
 3️⃣ Open your terminal, navigate to the project folder, and run:  
 ```bash
 python calculator.py
+```
+
+## Example output
+```bash
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter first number: 10
+Enter second number: 5
+
+Enter your choice (1/2/3/4): 1
+Sum: 15.0
+```
+
